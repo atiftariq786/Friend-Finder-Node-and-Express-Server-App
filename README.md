@@ -15,21 +15,21 @@ This full-stack site will take in results from users' surveys, then compare thei
 
 ** Demo Link
 
-[Friend Finder App Demo]()
+[Friend Finder App Demo](https://banana-surprise-66242.herokuapp.com/)
 
 ## Friend Finder App Images
 
 ** Home page view
 
-![alt text]( "Home Page")
+![alt text](https://github.com/atiftariq786/Friend-Finder-Node-and-Express-Server-App/blob/master/assets/images/home-page.png?raw=true "Home Page")
 
 ** Survey page view 
 
-![alt text]( "Survey Page")
+![alt text](https://github.com/atiftariq786/Friend-Finder-Node-and-Express-Server-App/blob/master/assets/images/survey-page.png?raw=true "Survey Page")
 
 ** Best match result 
 
-![alt text]( "Best Match")
+![alt text](https://github.com/atiftariq786/Friend-Finder-Node-and-Express-Server-App/blob/master/assets/images/Best-match.png?raw=true "Best Match")
 
 ## Friend Finder Code Description
 *   My server.js file sets up the Express server, specifying our port number, the npm packages that         need to be loaded, and also the routes, which we have externalized.
